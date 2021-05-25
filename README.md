@@ -1,4 +1,4 @@
-- 👋 Hi, I’m T.J.
+## 👋 Hi, I’m T.J.
 - 🎓 I'm a graduate of The Ohio State University (BSBA with a major in Finance)
 - 🌱 I’m currently a full time data science student at Flatiron School
 - 👀 I’m interested in machine learning, data visualization, finance, and much more 
