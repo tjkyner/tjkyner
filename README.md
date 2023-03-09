@@ -1,6 +1,14 @@
 ## 👋 Hi, I’m T.J.
 
-I'm a Full Stack Software Engineer with a passion for working in fast-paced, high-energy startups. I pride myself on being able to provide end-to-end solutions for any tech-related challenge with a high degree of autonomy.
+I'm a Full Stack Software Engineer with a passion for building impactful products. After starting my career as an Investment Specialist for a private wealth management firm, I transitioned to the tech industry after completing a data science bootcamp. Since then, I've worked at multiple fast-paced, high-energy startups. I pride myself on being able to provide end-to-end solutions for any tech-related challenge with a high degree of autonomy.
+
+###### Feel free to get in touch!
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tjkyner@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tjkyner/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tjkyner)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tjkyner)
+
 
 ## Tech Stack
 #### Languages
@@ -30,6 +38,7 @@ I'm a Full Stack Software Engineer with a passion for working in fast-paced, hig
 #### Collaboration
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
 #### IDEs
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -37,6 +46,7 @@ I'm a Full Stack Software Engineer with a passion for working in fast-paced, hig
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=black&&labelColor=53cd82)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=e93d4e)
 ![Datagrip](https://img.shields.io/badge/datagrip-000000.svg?style=for-the-badge&logo=datagrip&logoColor=white&labelColor=cd4bea)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 #### Miscellaneous
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
