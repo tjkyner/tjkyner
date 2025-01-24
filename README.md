@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m T.J.
 
-I'm a Senior Software Engineer with a passion for building impactful products. After starting my career as an Investment Specialist for a private wealth management firm, I transitioned to the tech industry upon completion of a data science bootcamp. Since then, I've worked at multiple fast-paced, high-energy startups. I pride myself on being able to provide end-to-end solutions for any tech-related challenge with a high degree of autonomy.
+I'm a Staff Software Engineer at Groundfloor with a passion for building impactful products. After starting my career as an Investment Specialist for a private wealth management firm, I transitioned to the tech industry upon completion of a data science bootcamp. Since then, I've worked at multiple fast-paced, high-energy startups. I pride myself on being able to provide end-to-end solutions for any tech-related challenge with a high degree of autonomy.
 
 ###### Feel free to get in touch!
 
